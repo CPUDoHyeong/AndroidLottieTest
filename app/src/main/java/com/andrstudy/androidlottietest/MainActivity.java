@@ -7,7 +7,7 @@ import com.airbnb.lottie.LottieAnimationView;
 import com.airbnb.lottie.LottieDrawable;
 
 public class MainActivity extends AppCompatActivity {
-
+    // lottie 생성
     private LottieAnimationView lottie;
 
     @Override
